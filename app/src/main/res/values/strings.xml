@@ -2,6 +2,7 @@
     <string name="app_name">Fintech_3</string>
     <string name="create">Sukurti</string>
     <string name="delete">Ištrinti</string>
+    <string name="api_request">Gauti valiutų kursus</string>
     <string name="name">Pavadinimas</string>
     <string name="description">Aprašymas</string>
     <string name="notes_key">Notes</string>
