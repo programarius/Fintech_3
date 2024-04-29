@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fintech_3</string>
+    <string name="create">Sukurti</string>
+    <string name="delete">Ištrinti</string>
+    <string name="name">Pavadinimas</string>
+    <string name="description">Aprašymas</string>
+    <string name="notes_key">Notes</string>
+    <string name="toast_empty_text">įvesties laukai nebali būti tušti</string>
+    <string name="toast_create_success_text">Įrašas išsaugotas</string>
+    <string name="toast_delete_success_text">Įrašas ištrintas</string>
+</resources>
